@@ -75,9 +75,9 @@ body:
       default: 4
 
   - type: textarea
-    label: HTML DOM or URL 
     attributes:
       placeholder: Can you Please provide the HTML DOM of the Page or URL of the Page where test is failing
+      label: HTML DOM or URL 
     validations:
       required: true
 
