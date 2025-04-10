@@ -38,9 +38,9 @@ body:
       
   
   - type: input
-    id: Selenium or Playwright-version
+    id: tool-version
     attributes :
-      label: Selenium /Playwright Version
+      label: Selenium or Playwright Version
       description: What version of Playwright or Selenium you are using currently?
 
   - type: dropdown
