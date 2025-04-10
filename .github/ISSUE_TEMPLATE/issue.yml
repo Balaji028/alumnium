@@ -33,7 +33,7 @@ body:
       options :
         - Selenium
         - Playwright
-      validations:
+    validations:
         required: true
       
   
