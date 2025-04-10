@@ -38,7 +38,7 @@ body:
       
   
   - type: input
-    id: Selenium/Playwright-version
+    id: Selenium or Playwright-version
     attributes :
       label: Selenium /Playwright Version
       description: What version of Playwright or Selenium you are using currently?
