@@ -33,7 +33,7 @@ body:
       options :
         - Selenium
         - Playwright
-      validations :
+      validations:
         required: true
       
   
@@ -53,7 +53,7 @@ body:
         - Edge
         - Safari
         - other(Description)
-      validations :
+    validations:
         required: true
 
   - type: input
