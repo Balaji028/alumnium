@@ -25,7 +25,6 @@ env:
   DISPLAY: :99
 
 jobs:
-
   formatchecker:
     name: Code Style Check
     runs-on: ubuntu-latest
